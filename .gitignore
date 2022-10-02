@@ -1,2 +1,8 @@
+# Ignore System folders
 /Windows/System
 /Windows/System32
+
+# Ignore system files
+*.exe
+*.dll
+*.log
